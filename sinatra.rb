@@ -97,5 +97,4 @@ get '/calculate' do
    @sub = num1 - num2
    @div = num1 / num2
    erb :my_calculate
-   
 end
